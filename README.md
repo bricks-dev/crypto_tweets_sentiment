@@ -6,7 +6,7 @@ one problem with this approach is that bitcoin vocabulary is very different from
 A similar project working on TripAdvisor data: https://github.com/robhawkins/happiness
 
 ## Problem:
-Is twitter's bitcoin sentiment corellated with bitcoin's price?
+Is twitter's bitcoin sentiment correlated with bitcoin's price?
 
 ## Solution:
 1. Train sentiment analysis model. [100%]
