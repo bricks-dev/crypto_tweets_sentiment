@@ -3,8 +3,7 @@ Transfer IMDB sentiment analysis model to crypto currency related tweets
 
 one problem with this approach is that bitcoin vocabulary is very different from movie reviews.
 
-A similar project working on TripAdvisor data:
-https://github.com/robhawkins/happiness
+A similar project working on TripAdvisor data: https://github.com/robhawkins/happiness
 
 ## Problem:
 Is twitter's bitcoin sentiment corellated with bitcoin's price?
