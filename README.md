@@ -22,6 +22,7 @@ This is the folder you want:
 ### 4. the `.pkl` file will be put into project directory
 
 This is what my project folder looks like:
+
 ![project folder](https://github.com/mingrui/crypto_tweets_sentiment/raw/master/dir.png)
 
 ### 5. have fun!
