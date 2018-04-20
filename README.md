@@ -21,7 +21,7 @@ To find correlation between sentiment change and market movement.
 
 http://forums.fast.ai/t/wiki-lesson-4/9402/1
 
-## setup
+## Setup
 
 #### 1. Follow fastai's setup procedure, don't use `pip install fastai`, pull the github directory, this is because fastai is changing really fast.
 
