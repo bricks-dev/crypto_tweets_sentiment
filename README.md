@@ -2,14 +2,12 @@
 Transfer IMDB sentiment analysis model to crypto currency related tweets
 
 ## Problem:
-To find out the market sentiment over a period of time.
-
-To find correlation between sentiment change and market movement.
+Is twitter's bitcoin sentiment corellated with bitcoin's price?
 
 ## Solution:
 1. Train sentiment analysis model. [100%]
 
-2. Crawl for tweets of bitcoin. [0%]
+2. Crawl for tweets of bitcoin thought leaders. [0%]
 
 3. Used trained model to make sentiment prediction. [0%]
 
