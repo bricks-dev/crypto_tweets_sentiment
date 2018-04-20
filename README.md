@@ -14,6 +14,7 @@ fastai's conda environment has all the dependencies you will need.
 2. There will be a fastai folder that conains the fastai library code that we need, copy this folder into the project folder.
 
 This is the folder you want:
+
 ![this is the fastai folder you want](https://github.com/mingrui/crypto_tweets_sentiment/raw/master/copy_fastai.png)
 
 3. Make a `models` folder, the `.h5` files will be put into this directory
