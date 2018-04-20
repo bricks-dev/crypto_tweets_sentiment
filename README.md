@@ -1,11 +1,27 @@
 # crypto_tweets_sentiment
 Transfer IMDB sentiment analysis model to crypto currency related tweets
 
-# sentiment analysis with pytorch as explained in fastai lesson 4
+## Problem:
+To find out the market sentiment over a period of time.
+
+To find correlation between sentiment change and market movement.
+
+## Solution:
+1. Train sentiment analysis model. [100%]
+
+2. Crawl for tweets of bitcoin. [0%]
+
+3. Used trained model to make sentiment prediction. [0%]
+
+4. Compare timeline of tweets with timeline of market movement. [0%]
+
+5. If there is some corellation on this smaller dataset, setup server to run on a long term dataset. [0%]
+
+## Sentiment analysis with pytorch as explained in fastai lesson 4
 
 http://forums.fast.ai/t/wiki-lesson-4/9402/1
 
-# setup
+## setup
 
 #### 1. Follow fastai's setup procedure, don't use `pip install fastai`, pull the github directory, this is because fastai is changing really fast.
 
