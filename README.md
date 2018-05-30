@@ -26,7 +26,7 @@ http://forums.fast.ai/t/wiki-lesson-4/9402/1
 ## Setup
 
 #### 1. Follow fastai's setup procedure, don't use `pip install fastai`, pull the github directory, this is because fastai is changing really fast.
-
+https://github.com/fastai/fastai<br>
 fastai's conda environment has all the dependencies you will need.
 
 #### 2. There will be a fastai folder that conains the fastai library code that we need, copy this folder into the project folder.
